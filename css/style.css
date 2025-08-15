@@ -61,7 +61,7 @@ main .description {
     padding-left: 50px;
 }
 
-main .description p + p {
+main .description p:nth-child(3) {
     margin-top: 30px;
 }
 
